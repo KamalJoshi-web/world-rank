@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.regionHighlight {
+  background-color: #282b30;
+  color: #d2d5da;
+}
